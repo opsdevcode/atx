@@ -28,3 +28,7 @@ atx --install-completion bash
 atx --install-completion zsh
 atx --install-completion fish
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
